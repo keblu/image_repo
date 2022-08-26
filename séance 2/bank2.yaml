@@ -1,0 +1,29 @@
+pictures base directory: answer_plot
+categories:
+- name: Séance 2
+  questions:
+  - name: Question 1
+    class: Numerical
+    statement: Vous avez l'intention de déposer 67.38$ dans 6 mois  et déposer 67.38
+      dollars  dans 6 mois dans (de) votre compte de banque. Quel est la valeur de
+      ces flux monétaires au mois 12  si votre compte de banque vous offre un taux
+      d'intérêt de 13.577% capitalisé semi-annuellement.
+    solution:
+      value: 76.84
+      error: 0.1
+    feedback: |2
+
+      answer_plot/Q_1.svg
+  - name: Question 2
+    class: Numerical
+    statement: Vous avez l'intention de déposer 196.79$ dans 1 mois , déposer 112.56$
+      dans 3 mois , déposer 153.12$ dans 9 mois , déposer 258.46$ dans 11 mois  et
+      déposer 3.81 dollars  dans 18 mois dans (de) votre compte de banque. Quel est
+      la valeur de ces flux monétaires au mois 22  si votre compte de banque vous
+      offre un taux d'intérêt de 4.162% capitalisé mensuellement.
+    solution:
+      value: 1394.26
+      error: 0.1
+    feedback: |2
+
+      answer_plot/Q_2.svg

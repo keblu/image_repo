@@ -1,0 +1,22 @@
+images hosting:
+
+  ssh:
+    user: mvazquez
+
+    # below, one should specify either a password for the user or  "public key" file but NOT both of them
+
+    password:
+
+    # "~" stands for the user's home directory (in Linux for one...)
+    public_key: ~/.ssh/id_rsa_mymachine.pub
+
+  copy:
+    # machine into which files will be copied
+    host: hidra1
+
+    # the path that in the remote machine acts as root of the publicly visible directories hierarchy (hence it's not
+    # visible from outside);  it *should* exist ("." stands for the working directory when you ssh into the machine)
+    public filesystem root: ./public_html
+
+  # public address from which the images will hang
+  public URL: http://www.tsc.uc3m.es/~mvazquez/
