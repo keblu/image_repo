@@ -2,11 +2,11 @@ $CATEGORY: $course$/Séance 2
 
 ::Question 1::[html]Vous avez l'intention de déposer 67.38 dollars  dans 6 mois  et déposer 67.38 dollars  dans 6 mois dans (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois 12  si votre compte de banque vous offre un taux d'intérêt de 13.577% capitalisé semi-annuellement.{
 #	=%100%76.84:0.1#
-	####<br><p><img src\="http\://www.tsc.uc3m.es/\~mvazquez/answer_plot/answer_plot/Q_1.svg" alt\="" role\="presentation" class\="atto_image_button_text-bottom"><br></p>
+	####<br><p><img src\="https\://github.com/keblu/image_repo/tree/main/s" alt\="" role\="presentation" class\="atto_image_button_text-bottom"><br></p>%C3%A9ance%202/answer_plot/answer_plot/Q_1.svg
 }
 
 ::Question 2::[html]Vous avez l'intention de déposer 196.79 dollars  dans 1 mois , déposer 112.56 dollars  dans 3 mois , déposer 153.12 dollars  dans 9 mois , déposer 258.46 dollars  dans 11 mois  et déposer 3.81 dollars  dans 18 mois dans (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois 22  si votre compte de banque vous offre un taux d'intérêt de 4.162% capitalisé mensuellement.{
 #	=%100%1394.26:0.1#
-	####<br><p><img src\="http\://www.tsc.uc3m.es/\~mvazquez/answer_plot/answer_plot/Q_2.svg" alt\="" role\="presentation" class\="atto_image_button_text-bottom"><br></p>
+	####<br><p><img src\="https\://github.com/keblu/image_repo/tree/main/s" alt\="" role\="presentation" class\="atto_image_button_text-bottom"><br></p>%C3%A9ance%202/answer_plot/answer_plot/Q_2.svg
 }
 

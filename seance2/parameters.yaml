@@ -19,4 +19,4 @@ images hosting:
     public filesystem root: ./public_html
 
   # public address from which the images will hang
-  public URL: http://www.tsc.uc3m.es/~mvazquez/
+  public URL: https://github.com/keblu/image_repo/tree/main/s%C3%A9ance%202/
