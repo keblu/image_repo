@@ -1,6 +1,6 @@
 pictures base directory: answer_plot
 categories:
-- name: Séance 2
+- name: seance2
   questions:
   - name: Question 1
     class: Numerical
@@ -11,9 +11,8 @@ categories:
     solution:
       value: 76.84
       error: 0.1
-    feedback: |2
-
-      answer_plot/Q_1.svg
+    feedback: |
+      Q_1.svg
   - name: Question 2
     class: Numerical
     statement: Vous avez l'intention de déposer 196.79 dollars  dans 1 mois , déposer
@@ -24,6 +23,1132 @@ categories:
     solution:
       value: 1394.26
       error: 0.1
-    feedback: |2
-
-      answer_plot/Q_2.svg
+    feedback: |
+      Q_2.svg
+  - name: Question 3
+    class: Numerical
+    statement: Vous avez l'intention de déposer 126.47 dollars  dans 24 mois , déposer
+      186.88 dollars  dans 30 mois , déposer 46 dollars  dans 48 mois , déposer 55.38
+      dollars  dans 69 mois  et déposer 133.44 dollars  dans 84 mois dans (de) votre
+      compte de banque. Quel est la valeur de ces flux monétaires au mois 24  si votre
+      compte de banque vous offre un taux d'intérêt de 10.852% capitalisé trimestriellement.
+    solution:
+      value: 323.64
+      error: 0.1
+    feedback: |
+      Q_3.svg
+  - name: Question 4
+    class: Numerical
+    statement: Vous avez l'intention de déposer 159.6 dollars  dans 57 mois , déposer
+      45.75 dollars  dans 63 mois  et déposer 189.11 dollars  dans 78 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 72  si
+      votre compte de banque vous offre un taux d'intérêt de 2.401% capitalisé trimestriellement.
+    solution:
+      value: 409.32
+      error: 0.1
+    feedback: |
+      Q_4.svg
+  - name: Question 5
+    class: Numerical
+    statement: Vous avez l'intention de déposer 43.02 dollars  dans 54 mois  et déposer
+      148.23 dollars  dans 150 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 126  si votre compte de banque vous offre
+      un taux d'intérêt de 14.391% capitalisé semi-annuellement.
+    solution:
+      value: 313.01
+      error: 0.1
+    feedback: |
+      Q_5.svg
+  - name: Question 6
+    class: Numerical
+    statement: Vous avez l'intention de déposer 69.48 dollars  dans 6 mois , déposer
+      171.51 dollars  dans 9 mois , retirer -51.82 dollars  dans 63 mois , déposer
+      253.53 dollars  dans 78 mois  et déposer 301.55 dollars  dans 81 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 24  si
+      votre compte de banque vous offre un taux d'intérêt de 3.061% capitalisé trimestriellement.
+    solution:
+      value: 563.71
+      error: 0.1
+    feedback: |
+      Q_6.svg
+  - name: Question 7
+    class: Numerical
+    statement: Vous avez l'intention de déposer 74.08 dollars  dans 2 mois  et retirer
+      -47.77 dollars  dans 15 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 26  si votre compte de banque vous offre un taux
+      d'intérêt de 3.322% capitalisé mensuellement.
+    solution:
+      value: 95.43
+      error: 0.1
+    feedback: |
+      Q_7.svg
+  - name: Question 8
+    class: Numerical
+    statement: Vous avez l'intention de déposer 184.04 dollars  dans 3 mois , déposer
+      173.6 dollars  dans 9 mois , déposer 44.92 dollars  dans 54 mois  et déposer
+      53.65 dollars  dans 87 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 9  si votre compte de banque vous offre un taux
+      d'intérêt de 13.989% capitalisé trimestriellement.
+    solution:
+      value: 423.1
+      error: 0.1
+    feedback: |
+      Q_8.svg
+  - name: Question 9
+    class: Numerical
+    statement: Vous avez l'intention de retirer -97.32 dollars  dans 144 mois , déposer
+      21.33 dollars  dans 192 mois  et retirer -10.73 dollars  dans 324 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      360  si votre compte de banque vous offre un taux d'intérêt de 1.119% capitalisé
+      annuellement.
+    solution:
+      value: -105.06
+      error: 0.1
+    feedback: |
+      Q_9.svg
+  - name: Question 10
+    class: Numerical
+    statement: Vous avez l'intention de déposer 150.47 dollars  dans 42 mois , déposer
+      24.6 dollars  dans 114 mois  et déposer 49.5 dollars  dans 132 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 144  si
+      votre compte de banque vous offre un taux d'intérêt de 2.589% capitalisé semi-annuellement.
+    solution:
+      value: 313.1
+      error: 0.1
+    feedback: |
+      Q_10.svg
+  - name: Question 11
+    class: Numerical
+    statement: Vous avez l'intention de retirer -119.59 dollars  dans 5 mois  et retirer
+      -228.04 dollars  dans 17 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 28  si votre compte de banque vous offre
+      un taux d'intérêt de 13.33% capitalisé mensuellement.
+    solution:
+      value: -3502.83
+      error: 0.1
+    feedback: |
+      Q_11.svg
+  - name: Question 12
+    class: Numerical
+    statement: Vous avez l'intention de déposer 38.53 dollars  dans 15 mois  et déposer
+      190.69 dollars  dans 42 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 15  si votre compte de banque vous offre un taux
+      d'intérêt de 1.32% capitalisé trimestriellement.
+    solution:
+      value: 207.89
+      error: 0.1
+    feedback: |
+      Q_12.svg
+  - name: Question 13
+    class: Numerical
+    statement: Vous avez l'intention de déposer 277.52 dollars  dans 48 mois , déposer
+      71.97 dollars  dans 264 mois  et déposer 118.73 dollars  dans 336 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      288  si votre compte de banque vous offre un taux d'intérêt de 9.31% capitalisé
+      annuellement.
+    solution:
+      value: 1815.39
+      error: 0.1
+    feedback: |
+      Q_13.svg
+  - name: Question 14
+    class: Numerical
+    statement: Vous avez l'intention de déposer 135.27 dollars  dans 60 mois  et déposer
+      135.27 dollars  dans 60 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 33  si votre compte de banque vous offre un taux
+      d'intérêt de 8.161% capitalisé trimestriellement.
+    solution:
+      value: 65.38
+      error: 0.1
+    feedback: |
+      Q_14.svg
+  - name: Question 15
+    class: Numerical
+    statement: Vous avez l'intention de déposer 33.79 dollars  dans 6 mois , déposer
+      328.55 dollars  dans 36 mois , déposer 14.05 dollars  dans 66 mois , déposer
+      195.98 dollars  dans 72 mois  et déposer 138.78 dollars  dans 120 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      126  si votre compte de banque vous offre un taux d'intérêt de 2.977% capitalisé
+      semi-annuellement.
+    solution:
+      value: 990.34
+      error: 0.1
+    feedback: |
+      Q_15.svg
+  - name: Question 16
+    class: Numerical
+    statement: Vous avez l'intention de déposer 30.69 dollars  dans 29 mois  et déposer
+      30.69 dollars  dans 29 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 15  si votre compte de banque vous offre un taux
+      d'intérêt de 5.357% capitalisé mensuellement.
+    solution:
+      value: 14.52
+      error: 0.1
+    feedback: |
+      Q_16.svg
+  - name: Question 17
+    class: Numerical
+    statement: Vous avez l'intention de déposer 285.75 dollars  dans 90 mois  et déposer
+      176.15 dollars  dans 138 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 42  si votre compte de banque vous offre
+      un taux d'intérêt de 11.92% capitalisé semi-annuellement.
+    solution:
+      value: 140.8
+      error: 0.1
+    feedback: |
+      Q_17.svg
+  - name: Question 18
+    class: Numerical
+    statement: Vous avez l'intention de retirer -41.45 dollars  dans 36 mois  et déposer
+      155.4 dollars  dans 108 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 54  si votre compte de banque vous offre un taux
+      d'intérêt de 6.126% capitalisé semi-annuellement.
+    solution:
+      value: 40.6
+      error: 0.1
+    feedback: |
+      Q_18.svg
+  - name: Question 19
+    class: Numerical
+    statement: Vous avez l'intention de déposer 96 dollars  dans 1 mois , déposer
+      160.09 dollars  dans 11 mois , déposer 118.47 dollars  dans 12 mois , déposer
+      24.09 dollars  dans 22 mois  et retirer -48.78 dollars  dans 29 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 4  si
+      votre compte de banque vous offre un taux d'intérêt de 8.947% capitalisé mensuellement.
+    solution:
+      value: 268.86
+      error: 0.1
+    feedback: |
+      Q_19.svg
+  - name: Question 20
+    class: Numerical
+    statement: Vous avez l'intention de retirer -47.02 dollars  dans 108 mois , déposer
+      306.11 dollars  dans 156 mois  et déposer 107.32 dollars  dans 360 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      36  si votre compte de banque vous offre un taux d'intérêt de 7.329% capitalisé
+      annuellement.
+    solution:
+      value: 136.05
+      error: 0.1
+    feedback: |
+      Q_20.svg
+  - name: Question 21
+    class: Numerical
+    statement: Vous avez l'intention de déposer 152.23 dollars  dans 120 mois  et
+      déposer 152.23 dollars  dans 120 mois dans (de) votre compte de banque. Quel
+      est la valeur de ces flux monétaires au mois 180  si votre compte de banque
+      vous offre un taux d'intérêt de 2.425% capitalisé annuellement.
+    solution:
+      value: 171.61
+      error: 0.1
+    feedback: |
+      Q_21.svg
+  - name: Question 22
+    class: Numerical
+    statement: Vous avez l'intention de déposer 348.52 dollars  dans 180 mois  et
+      déposer 348.52 dollars  dans 180 mois dans (de) votre compte de banque. Quel
+      est la valeur de ces flux monétaires au mois 72  si votre compte de banque vous
+      offre un taux d'intérêt de 9.612% capitalisé semi-annuellement.
+    solution:
+      value: 64.32
+      error: 0.1
+    feedback: |
+      Q_22.svg
+  - name: Question 23
+    class: Numerical
+    statement: Vous avez l'intention de déposer 370.76 dollars  dans 24 mois , déposer
+      23.81 dollars  dans 51 mois , déposer 80.76 dollars  dans 63 mois , déposer
+      155.55 dollars  dans 69 mois  et déposer 301.66 dollars  dans 90 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 12  si
+      votre compte de banque vous offre un taux d'intérêt de 9.31% capitalisé trimestriellement.
+    solution:
+      value: 335.3
+      error: 0.1
+    feedback: |
+      Q_23.svg
+  - name: Question 24
+    class: Numerical
+    statement: Vous avez l'intention de déposer 141.96 dollars  dans 264 mois , déposer
+      153.66 dollars  dans 288 mois  et déposer 41.64 dollars  dans 312 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      108  si votre compte de banque vous offre un taux d'intérêt de 10.404% capitalisé
+      annuellement.
+    solution:
+      value: 81.77
+      error: 0.1
+    feedback: |
+      Q_24.svg
+  - name: Question 25
+    class: Numerical
+    statement: Vous avez l'intention de retirer -15.33 dollars  dans 3 mois , retirer
+      -50.01 dollars  dans 9 mois , retirer -4.16 dollars  dans 12 mois , déposer
+      132.15 dollars  dans 24 mois  et déposer 55.45 dollars  dans 27 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 36  si
+      votre compte de banque vous offre un taux d'intérêt de 7.677% capitalisé trimestriellement.
+    solution:
+      value: 106.62
+      error: 0.1
+    feedback: |
+      Q_25.svg
+  - name: Question 26
+    class: Numerical
+    statement: Vous avez l'intention de déposer 214.79 dollars  dans 48 mois , déposer
+      182.63 dollars  dans 144 mois , déposer 51.05 dollars  dans 216 mois  et déposer
+      59.01 dollars  dans 264 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 168  si votre compte de banque vous offre un
+      taux d'intérêt de 5.363% capitalisé annuellement.
+    solution:
+      value: 645.17
+      error: 0.1
+    feedback: |
+      Q_26.svg
+  - name: Question 27
+    class: Numerical
+    statement: Vous avez l'intention de retirer -38.02 dollars  dans 1 mois , déposer
+      75.09 dollars  dans 3 mois , retirer -181.35 dollars  dans 11 mois , déposer
+      12.91 dollars  dans 14 mois  et déposer 55.8 dollars  dans 21 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 24  si
+      votre compte de banque vous offre un taux d'intérêt de 9.316% capitalisé mensuellement.
+    solution:
+      value: -293.8
+      error: 0.1
+    feedback: |
+      Q_27.svg
+  - name: Question 28
+    class: Numerical
+    statement: Vous avez l'intention de retirer -35.09 dollars  dans 27 mois  et retirer
+      -35.09 dollars  dans 27 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 51  si votre compte de banque vous offre un taux
+      d'intérêt de 11.603% capitalisé trimestriellement.
+    solution:
+      value: -87.61
+      error: 0.1
+    feedback: |
+      Q_28.svg
+  - name: Question 29
+    class: Numerical
+    statement: Vous avez l'intention de déposer 29.66 dollars  dans 2 mois , retirer
+      -32.2 dollars  dans 8 mois , déposer 54.79 dollars  dans 17 mois , déposer 27.15
+      dollars  dans 18 mois  et déposer 210.91 dollars  dans 26 mois dans (de) votre
+      compte de banque. Quel est la valeur de ces flux monétaires au mois 28  si votre
+      compte de banque vous offre un taux d'intérêt de 6.07% capitalisé mensuellement.
+    solution:
+      value: 429.54
+      error: 0.1
+    feedback: |
+      Q_29.svg
+  - name: Question 30
+    class: Numerical
+    statement: Vous avez l'intention de déposer 79.97 dollars  dans 120 mois  et déposer
+      97.05 dollars  dans 144 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 324  si votre compte de banque vous offre un
+      taux d'intérêt de 14.523% capitalisé annuellement.
+    solution:
+      value: 1543.84
+      error: 0.1
+    feedback: |
+      Q_30.svg
+  - name: Question 31
+    class: Numerical
+    statement: Vous avez l'intention de déposer 80.94 dollars  dans 12 mois , déposer
+      264.44 dollars  dans 132 mois , déposer 30.37 dollars  dans 144 mois , déposer
+      87.98 dollars  dans 168 mois  et déposer 5.65 dollars  dans 312 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 240  si
+      votre compte de banque vous offre un taux d'intérêt de 4.254% capitalisé annuellement.
+    solution:
+      value: 723.09
+      error: 0.1
+    feedback: |
+      Q_31.svg
+  - name: Question 32
+    class: Numerical
+    statement: Vous avez l'intention de déposer 204.53 dollars  dans 36 mois , déposer
+      270.81 dollars  dans 114 mois  et déposer 160.92 dollars  dans 162 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      102  si votre compte de banque vous offre un taux d'intérêt de 11.817% capitalisé
+      semi-annuellement.
+    solution:
+      value: 989.46
+      error: 0.1
+    feedback: |
+      Q_32.svg
+  - name: Question 33
+    class: Numerical
+    statement: Vous avez l'intention de déposer 239.76 dollars  dans 96 mois  et déposer
+      73.28 dollars  dans 216 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 336  si votre compte de banque vous offre un
+      taux d'intérêt de 1.217% capitalisé annuellement.
+    solution:
+      value: 388.08
+      error: 0.1
+    feedback: |
+      Q_33.svg
+  - name: Question 34
+    class: Numerical
+    statement: Vous avez l'intention de déposer 157.58 dollars  dans 144 mois , déposer
+      28.86 dollars  dans 192 mois , déposer 202.69 dollars  dans 336 mois , déposer
+      118.82 dollars  dans 348 mois  et déposer 397.61 dollars  dans 360 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      36  si votre compte de banque vous offre un taux d'intérêt de 1.218% capitalisé
+      annuellement.
+    solution:
+      value: 689.21
+      error: 0.1
+    feedback: |
+      Q_34.svg
+  - name: Question 35
+    class: Numerical
+    statement: Vous avez l'intention de déposer 264.69 dollars  dans 27 mois  et retirer
+      -129.64 dollars  dans 33 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 42  si votre compte de banque vous offre
+      un taux d'intérêt de 14.994% capitalisé trimestriellement.
+    solution:
+      value: 350.94
+      error: 0.1
+    feedback: |
+      Q_35.svg
+  - name: Question 36
+    class: Numerical
+    statement: Vous avez l'intention de déposer 145.51 dollars  dans 5 mois , retirer
+      -105.58 dollars  dans 12 mois , déposer 64.29 dollars  dans 13 mois , déposer
+      35.76 dollars  dans 21 mois  et déposer 84.06 dollars  dans 27 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 5  si
+      votre compte de banque vous offre un taux d'intérêt de 5.271% capitalisé mensuellement.
+    solution:
+      value: 156.5
+      error: 0.1
+    feedback: |
+      Q_36.svg
+  - name: Question 37
+    class: Numerical
+    statement: Vous avez l'intention de déposer 157.92 dollars  dans 54 mois  et déposer
+      70.63 dollars  dans 120 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 24  si votre compte de banque vous offre un taux
+      d'intérêt de 11.159% capitalisé semi-annuellement.
+    solution:
+      value: 104.19
+      error: 0.1
+    feedback: |
+      Q_37.svg
+  - name: Question 38
+    class: Numerical
+    statement: Vous avez l'intention de retirer -104.83 dollars  dans 15 mois  et
+      retirer -104.83 dollars  dans 15 mois dans (de) votre compte de banque. Quel
+      est la valeur de ces flux monétaires au mois 78  si votre compte de banque vous
+      offre un taux d'intérêt de 11.525% capitalisé trimestriellement.
+    solution:
+      value: -1139.54
+      error: 0.1
+    feedback: |
+      Q_38.svg
+  - name: Question 39
+    class: Numerical
+    statement: Vous avez l'intention de déposer 18.08 dollars  dans 24 mois  et déposer
+      18.08 dollars  dans 24 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 30  si votre compte de banque vous offre un taux
+      d'intérêt de 11.827% capitalisé trimestriellement.
+    solution:
+      value: 22.83
+      error: 0.1
+    feedback: |
+      Q_39.svg
+  - name: Question 40
+    class: Numerical
+    statement: Vous avez l'intention de retirer -7.45 dollars  dans 24 mois , déposer
+      122.97 dollars  dans 36 mois , retirer -19.56 dollars  dans 192 mois  et déposer
+      90.26 dollars  dans 348 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 144  si votre compte de banque vous offre un
+      taux d'intérêt de 6.412% capitalisé annuellement.
+    solution:
+      value: 217.4
+      error: 0.1
+    feedback: |
+      Q_40.svg
+  - name: Question 41
+    class: Numerical
+    statement: Vous avez l'intention de déposer 119.73 dollars  dans 18 mois , déposer
+      228.88 dollars  dans 54 mois  et déposer 200.17 dollars  dans 66 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 6  si
+      votre compte de banque vous offre un taux d'intérêt de 11.157% capitalisé trimestriellement.
+    solution:
+      value: 138.61
+      error: 0.1
+    feedback: |
+      Q_41.svg
+  - name: Question 42
+    class: Numerical
+    statement: Vous avez l'intention de déposer 253.07 dollars  dans 75 mois  et déposer
+      253.07 dollars  dans 75 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 30  si votre compte de banque vous offre un taux
+      d'intérêt de 8.267% capitalisé trimestriellement.
+    solution:
+      value: 74.16
+      error: 0.1
+    feedback: |
+      Q_42.svg
+  - name: Question 43
+    class: Numerical
+    statement: Vous avez l'intention de déposer 101.68 dollars  dans 6 mois , déposer
+      154 dollars  dans 21 mois , déposer 234.55 dollars  dans 39 mois  et déposer
+      110.81 dollars  dans 87 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 66  si votre compte de banque vous offre un taux
+      d'intérêt de 10.367% capitalisé trimestriellement.
+    solution:
+      value: 2145.76
+      error: 0.1
+    feedback: |
+      Q_43.svg
+  - name: Question 44
+    class: Numerical
+    statement: Vous avez l'intention de déposer 42.57 dollars  dans 1 mois  et déposer
+      42.57 dollars  dans 1 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 30  si votre compte de banque vous offre un taux
+      d'intérêt de 3.008% capitalisé mensuellement.
+    solution:
+      value: 101.74
+      error: 0.1
+    feedback: |
+      Q_44.svg
+  - name: Question 45
+    class: Numerical
+    statement: Vous avez l'intention de déposer 113.79 dollars  dans 4 mois , déposer
+      46.91 dollars  dans 6 mois , déposer 52.54 dollars  dans 7 mois , retirer -155.66
+      dollars  dans 17 mois  et déposer 69.04 dollars  dans 29 mois dans (de) votre
+      compte de banque. Quel est la valeur de ces flux monétaires au mois 21  si votre
+      compte de banque vous offre un taux d'intérêt de 4.33% capitalisé mensuellement.
+    solution:
+      value: 287.0
+      error: 0.1
+    feedback: |
+      Q_45.svg
+  - name: Question 46
+    class: Numerical
+    statement: Vous avez l'intention de déposer 60.29 dollars  dans 6 mois  et déposer
+      30.45 dollars  dans 20 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 9  si votre compte de banque vous offre un taux
+      d'intérêt de 13.303% capitalisé mensuellement.
+    solution:
+      value: 96.77
+      error: 0.1
+    feedback: |
+      Q_46.svg
+  - name: Question 47
+    class: Numerical
+    statement: Vous avez l'intention de déposer 149.99 dollars  dans 18 mois , déposer
+      67.85 dollars  dans 39 mois  et déposer 192.49 dollars  dans 69 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 27  si
+      votre compte de banque vous offre un taux d'intérêt de 10.828% capitalisé trimestriellement.
+    solution:
+      value: 294.04
+      error: 0.1
+    feedback: |
+      Q_47.svg
+  - name: Question 48
+    class: Numerical
+    statement: Vous avez l'intention de retirer -77.06 dollars  dans 66 mois , retirer
+      -18.06 dollars  dans 78 mois , déposer 68.75 dollars  dans 120 mois , retirer
+      -82.73 dollars  dans 126 mois  et déposer 90.85 dollars  dans 168 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      174  si votre compte de banque vous offre un taux d'intérêt de 8.104% capitalisé
+      semi-annuellement.
+    solution:
+      value: -303.68
+      error: 0.1
+    feedback: |
+      Q_48.svg
+  - name: Question 49
+    class: Numerical
+    statement: Vous avez l'intention de déposer 38.72 dollars  dans 1 mois , déposer
+      34.72 dollars  dans 16 mois , déposer 107.64 dollars  dans 20 mois , déposer
+      38.66 dollars  dans 21 mois  et retirer -68.69 dollars  dans 28 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 27  si
+      votre compte de banque vous offre un taux d'intérêt de 7.631% capitalisé mensuellement.
+    solution:
+      value: 540.67
+      error: 0.1
+    feedback: |
+      Q_49.svg
+  - name: Question 50
+    class: Numerical
+    statement: Vous avez l'intention de déposer 15.84 dollars  dans 18 mois , déposer
+      103.3 dollars  dans 48 mois  et déposer 152.41 dollars  dans 168 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 96  si
+      votre compte de banque vous offre un taux d'intérêt de 9.972% capitalisé semi-annuellement.
+    solution:
+      value: 328.55
+      error: 0.1
+    feedback: |
+      Q_50.svg
+  - name: Question 51
+    class: Numerical
+    statement: Vous avez l'intention de déposer 21.57 dollars  dans 6 mois , déposer
+      167.88 dollars  dans 36 mois  et déposer 47.07 dollars  dans 63 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 72  si
+      votre compte de banque vous offre un taux d'intérêt de 3.395% capitalisé trimestriellement.
+    solution:
+      value: 349.34
+      error: 0.1
+    feedback: |
+      Q_51.svg
+  - name: Question 52
+    class: Numerical
+    statement: Vous avez l'intention de déposer 288.07 dollars  dans 168 mois , retirer
+      -103.77 dollars  dans 276 mois  et déposer 95.33 dollars  dans 336 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      36  si votre compte de banque vous offre un taux d'intérêt de 12.871% capitalisé
+      annuellement.
+    solution:
+      value: 71.46
+      error: 0.1
+    feedback: |
+      Q_52.svg
+  - name: Question 53
+    class: Numerical
+    statement: Vous avez l'intention de déposer 128.45 dollars  dans 156 mois , déposer
+      57.28 dollars  dans 276 mois  et déposer 140.52 dollars  dans 300 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      336  si votre compte de banque vous offre un taux d'intérêt de 8.191% capitalisé
+      annuellement.
+    solution:
+      value: 681.28
+      error: 0.1
+    feedback: |
+      Q_53.svg
+  - name: Question 54
+    class: Numerical
+    statement: Vous avez l'intention de déposer 140.37 dollars  dans 96 mois  et déposer
+      148.31 dollars  dans 150 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 72  si votre compte de banque vous offre
+      un taux d'intérêt de 7.919% capitalisé semi-annuellement.
+    solution:
+      value: 156.93
+      error: 0.1
+    feedback: |
+      Q_54.svg
+  - name: Question 55
+    class: Numerical
+    statement: Vous avez l'intention de retirer -81.24 dollars  dans 12 mois  et déposer
+      115.16 dollars  dans 30 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 18  si votre compte de banque vous offre un taux
+      d'intérêt de 2.237% capitalisé mensuellement.
+    solution:
+      value: -4.83
+      error: 0.1
+    feedback: |
+      Q_55.svg
+  - name: Question 56
+    class: Numerical
+    statement: Vous avez l'intention de déposer 158.64 dollars  dans 18 mois  et déposer
+      158.64 dollars  dans 18 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 60  si votre compte de banque vous offre un taux
+      d'intérêt de 2.402% capitalisé semi-annuellement.
+    solution:
+      value: 187.5
+      error: 0.1
+    feedback: |
+      Q_56.svg
+  - name: Question 57
+    class: Numerical
+    statement: Vous avez l'intention de déposer 3.06 dollars  dans 96 mois  et déposer
+      103.25 dollars  dans 168 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 228  si votre compte de banque vous offre
+      un taux d'intérêt de 8.785% capitalisé annuellement.
+    solution:
+      value: 165.03
+      error: 0.1
+    feedback: |
+      Q_57.svg
+  - name: Question 58
+    class: Numerical
+    statement: Vous avez l'intention de déposer 65.13 dollars  dans 108 mois , retirer
+      -5.83 dollars  dans 192 mois  et déposer 257.53 dollars  dans 336 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      180  si votre compte de banque vous offre un taux d'intérêt de 10.146% capitalisé
+      annuellement.
+    solution:
+      value: 184.33
+      error: 0.1
+    feedback: |
+      Q_58.svg
+  - name: Question 59
+    class: Numerical
+    statement: Vous avez l'intention de déposer 158.09 dollars  dans 15 mois , déposer
+      182.82 dollars  dans 33 mois  et déposer 113.1 dollars  dans 42 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 39  si
+      votre compte de banque vous offre un taux d'intérêt de 3.868% capitalisé trimestriellement.
+    solution:
+      value: 521.38
+      error: 0.1
+    feedback: |
+      Q_59.svg
+  - name: Question 60
+    class: Numerical
+    statement: Vous avez l'intention de déposer 151.26 dollars  dans 24 mois , retirer
+      -30.75 dollars  dans 120 mois  et déposer 62.22 dollars  dans 324 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      72  si votre compte de banque vous offre un taux d'intérêt de 4.634% capitalisé
+      annuellement.
+    solution:
+      value: 179.69
+      error: 0.1
+    feedback: |
+      Q_60.svg
+  - name: Question 61
+    class: Numerical
+    statement: Vous avez l'intention de retirer -113.78 dollars  dans 1 mois , retirer
+      -0.34 dollars  dans 4 mois , retirer -43.45 dollars  dans 25 mois  et déposer
+      257.6 dollars  dans 26 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 3  si votre compte de banque vous offre un taux
+      d'intérêt de 6.546% capitalisé mensuellement.
+    solution:
+      value: -82.91
+      error: 0.1
+    feedback: |
+      Q_61.svg
+  - name: Question 62
+    class: Numerical
+    statement: Vous avez l'intention de retirer -12.2 dollars  dans 48 mois , déposer
+      60.39 dollars  dans 180 mois , déposer 45.65 dollars  dans 204 mois  et déposer
+      157.07 dollars  dans 240 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 84  si votre compte de banque vous offre
+      un taux d'intérêt de 2.606% capitalisé annuellement.
+    solution:
+      value: 183.7
+      error: 0.1
+    feedback: |
+      Q_62.svg
+  - name: Question 63
+    class: Numerical
+    statement: Vous avez l'intention de déposer 15.78 dollars  dans 1 mois , retirer
+      -41.74 dollars  dans 20 mois  et déposer 163.86 dollars  dans 29 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 2  si
+      votre compte de banque vous offre un taux d'intérêt de 12.208% capitalisé mensuellement.
+    solution:
+      value: 19.3
+      error: 0.1
+    feedback: |
+      Q_63.svg
+  - name: Question 64
+    class: Numerical
+    statement: Vous avez l'intention de déposer 101.52 dollars  dans 7 mois , déposer
+      254.08 dollars  dans 8 mois , retirer -71.29 dollars  dans 17 mois  et retirer
+      -34.17 dollars  dans 25 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 30  si votre compte de banque vous offre un taux
+      d'intérêt de 3.221% capitalisé mensuellement.
+    solution:
+      value: 579.9
+      error: 0.1
+    feedback: |
+      Q_64.svg
+  - name: Question 65
+    class: Numerical
+    statement: Vous avez l'intention de déposer 127.86 dollars  dans 54 mois , retirer
+      -44.49 dollars  dans 102 mois  et déposer 4.83 dollars  dans 168 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 174  si
+      votre compte de banque vous offre un taux d'intérêt de 5.853% capitalisé semi-annuellement.
+    solution:
+      value: 321.56
+      error: 0.1
+    feedback: |
+      Q_65.svg
+  - name: Question 66
+    class: Numerical
+    statement: Vous avez l'intention de déposer 79.05 dollars  dans 3 mois , déposer
+      69.27 dollars  dans 18 mois , déposer 200.48 dollars  dans 21 mois , déposer
+      195.3 dollars  dans 30 mois  et déposer 235.02 dollars  dans 48 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 36  si
+      votre compte de banque vous offre un taux d'intérêt de 4.837% capitalisé trimestriellement.
+    solution:
+      value: 890.45
+      error: 0.1
+    feedback: |
+      Q_66.svg
+  - name: Question 67
+    class: Numerical
+    statement: Vous avez l'intention de déposer 92.08 dollars  dans 13 mois , déposer
+      4.25 dollars  dans 17 mois  et déposer 87.56 dollars  dans 30 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 20  si
+      votre compte de banque vous offre un taux d'intérêt de 5.904% capitalisé mensuellement.
+    solution:
+      value: 192.72
+      error: 0.1
+    feedback: |
+      Q_67.svg
+  - name: Question 68
+    class: Numerical
+    statement: Vous avez l'intention de déposer 13.53 dollars  dans 2 mois , déposer
+      166.71 dollars  dans 15 mois , déposer 141.57 dollars  dans 22 mois  et déposer
+      135.05 dollars  dans 25 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 14  si votre compte de banque vous offre un taux
+      d'intérêt de 11.856% capitalisé mensuellement.
+    solution:
+      value: 295.88
+      error: 0.1
+    feedback: |
+      Q_68.svg
+  - name: Question 69
+    class: Numerical
+    statement: Vous avez l'intention de déposer 137.43 dollars  dans 96 mois  et déposer
+      137.43 dollars  dans 96 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 48  si votre compte de banque vous offre un taux
+      d'intérêt de 3.395% capitalisé semi-annuellement.
+    solution:
+      value: 104.98
+      error: 0.1
+    feedback: |
+      Q_69.svg
+  - name: Question 70
+    class: Numerical
+    statement: Vous avez l'intention de retirer -12.99 dollars  dans 168 mois , déposer
+      266.69 dollars  dans 180 mois  et déposer 209.92 dollars  dans 360 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      84  si votre compte de banque vous offre un taux d'intérêt de 13.637% capitalisé
+      annuellement.
+    solution:
+      value: 101.69
+      error: 0.1
+    feedback: |
+      Q_70.svg
+  - name: Question 71
+    class: Numerical
+    statement: Vous avez l'intention de déposer 19.93 dollars  dans 96 mois , déposer
+      261.89 dollars  dans 144 mois  et déposer 113.86 dollars  dans 216 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      312  si votre compte de banque vous offre un taux d'intérêt de 11.664% capitalisé
+      annuellement.
+    solution:
+      value: 1647.58
+      error: 0.1
+    feedback: |
+      Q_71.svg
+  - name: Question 72
+    class: Numerical
+    statement: Vous avez l'intention de déposer 182.5 dollars  dans 5 mois , déposer
+      146.26 dollars  dans 9 mois , déposer 214.49 dollars  dans 16 mois , déposer
+      134.39 dollars  dans 24 mois  et déposer 191.73 dollars  dans 29 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 29  si
+      votre compte de banque vous offre un taux d'intérêt de 5.116% capitalisé mensuellement.
+    solution:
+      value: 1809.14
+      error: 0.1
+    feedback: |
+      Q_72.svg
+  - name: Question 73
+    class: Numerical
+    statement: Vous avez l'intention de déposer 327.56 dollars  dans 4 mois , déposer
+      172.37 dollars  dans 8 mois , déposer 131.29 dollars  dans 17 mois , retirer
+      -9.19 dollars  dans 22 mois  et retirer -38.45 dollars  dans 27 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 3  si
+      votre compte de banque vous offre un taux d'intérêt de 10.489% capitalisé mensuellement.
+    solution:
+      value: 423.37
+      error: 0.1
+    feedback: |
+      Q_73.svg
+  - name: Question 74
+    class: Numerical
+    statement: Vous avez l'intention de déposer 94.99 dollars  dans 66 mois  et déposer
+      252.98 dollars  dans 180 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 120  si votre compte de banque vous offre
+      un taux d'intérêt de 10.838% capitalisé semi-annuellement.
+    solution:
+      value: 333.64
+      error: 0.1
+    feedback: |
+      Q_74.svg
+  - name: Question 75
+    class: Numerical
+    statement: Vous avez l'intention de déposer 63.02 dollars  dans 276 mois  et déposer
+      63.02 dollars  dans 276 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 132  si votre compte de banque vous offre un
+      taux d'intérêt de 12.354% capitalisé annuellement.
+    solution:
+      value: 15.57
+      error: 0.1
+    feedback: |
+      Q_75.svg
+  - name: Question 76
+    class: Numerical
+    statement: Vous avez l'intention de retirer -27.04 dollars  dans 18 mois , déposer
+      159 dollars  dans 30 mois , déposer 171.55 dollars  dans 36 mois , déposer 163.21
+      dollars  dans 42 mois  et déposer 132.3 dollars  dans 72 mois dans (de) votre
+      compte de banque. Quel est la valeur de ces flux monétaires au mois 42  si votre
+      compte de banque vous offre un taux d'intérêt de 4.817% capitalisé trimestriellement.
+    solution:
+      value: 586.86
+      error: 0.1
+    feedback: |
+      Q_76.svg
+  - name: Question 77
+    class: Numerical
+    statement: Vous avez l'intention de déposer 264.56 dollars  dans 24 mois  et déposer
+      157.53 dollars  dans 29 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 22  si votre compte de banque vous offre un taux
+      d'intérêt de 8.943% capitalisé mensuellement.
+    solution:
+      value: 305.81
+      error: 0.1
+    feedback: |
+      Q_77.svg
+  - name: Question 78
+    class: Numerical
+    statement: Vous avez l'intention de déposer 166.6 dollars  dans 36 mois , déposer
+      77.23 dollars  dans 72 mois , déposer 61.71 dollars  dans 96 mois  et déposer
+      74.8 dollars  dans 324 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 120  si votre compte de banque vous offre un
+      taux d'intérêt de 9.637% capitalisé annuellement.
+    solution:
+      value: 518.65
+      error: 0.1
+    feedback: |
+      Q_78.svg
+  - name: Question 79
+    class: Numerical
+    statement: Vous avez l'intention de déposer 134.46 dollars  dans 168 mois , déposer
+      153.44 dollars  dans 264 mois  et déposer 74.2 dollars  dans 300 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 120  si
+      votre compte de banque vous offre un taux d'intérêt de 14.51% capitalisé annuellement.
+    solution:
+      value: 118.11
+      error: 0.1
+    feedback: |
+      Q_79.svg
+  - name: Question 80
+    class: Numerical
+    statement: Vous avez l'intention de retirer -143.68 dollars  dans 3 mois , retirer
+      -44.74 dollars  dans 4 mois  et déposer 114.91 dollars  dans 18 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 15  si
+      votre compte de banque vous offre un taux d'intérêt de 3.845% capitalisé mensuellement.
+    solution:
+      value: -193.59
+      error: 0.1
+    feedback: |
+      Q_80.svg
+  - name: Question 81
+    class: Numerical
+    statement: Vous avez l'intention de retirer -132.11 dollars  dans 9 mois , déposer
+      233.89 dollars  dans 10 mois , déposer 134.5 dollars  dans 21 mois  et déposer
+      155.58 dollars  dans 22 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 5  si votre compte de banque vous offre un taux
+      d'intérêt de 6.765% capitalisé mensuellement.
+    solution:
+      value: 161.18
+      error: 0.1
+    feedback: |
+      Q_81.svg
+  - name: Question 82
+    class: Numerical
+    statement: Vous avez l'intention de déposer 130.33 dollars  dans 324 mois  et
+      déposer 130.33 dollars  dans 324 mois dans (de) votre compte de banque. Quel
+      est la valeur de ces flux monétaires au mois 168  si votre compte de banque
+      vous offre un taux d'intérêt de 2.124% capitalisé annuellement.
+    solution:
+      value: 99.17
+      error: 0.1
+    feedback: |
+      Q_82.svg
+  - name: Question 83
+    class: Numerical
+    statement: Vous avez l'intention de déposer 25.76 dollars  dans 108 mois  et déposer
+      25.76 dollars  dans 108 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 264  si votre compte de banque vous offre un
+      taux d'intérêt de 7.778% capitalisé annuellement.
+    solution:
+      value: 68.21
+      error: 0.1
+    feedback: |
+      Q_83.svg
+  - name: Question 84
+    class: Numerical
+    statement: Vous avez l'intention de déposer 25.43 dollars  dans 21 mois , retirer
+      -14.64 dollars  dans 24 mois  et déposer 214.06 dollars  dans 63 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 15  si
+      votre compte de banque vous offre un taux d'intérêt de 13.191% capitalisé trimestriellement.
+    solution:
+      value: 36.54
+      error: 0.1
+    feedback: |
+      Q_84.svg
+  - name: Question 85
+    class: Numerical
+    statement: Vous avez l'intention de retirer -31.63 dollars  dans 264 mois  et
+      retirer -31.63 dollars  dans 264 mois dans (de) votre compte de banque. Quel
+      est la valeur de ces flux monétaires au mois 216  si votre compte de banque
+      vous offre un taux d'intérêt de 12.394% capitalisé annuellement.
+    solution:
+      value: -19.82
+      error: 0.1
+    feedback: |
+      Q_85.svg
+  - name: Question 86
+    class: Numerical
+    statement: Vous avez l'intention de déposer 217.65 dollars  dans 15 mois , déposer
+      22.51 dollars  dans 51 mois  et déposer 97.66 dollars  dans 69 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 6  si
+      votre compte de banque vous offre un taux d'intérêt de 4.973% capitalisé trimestriellement.
+    solution:
+      value: 232.98
+      error: 0.1
+    feedback: |
+      Q_86.svg
+  - name: Question 87
+    class: Numerical
+    statement: Vous avez l'intention de retirer -87.18 dollars  dans 6 mois  et retirer
+      -72.28 dollars  dans 27 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 6  si votre compte de banque vous offre un taux
+      d'intérêt de 7.418% capitalisé mensuellement.
+    solution:
+      value: -102.48
+      error: 0.1
+    feedback: |
+      Q_87.svg
+  - name: Question 88
+    class: Numerical
+    statement: Vous avez l'intention de retirer -84.56 dollars  dans 54 mois , déposer
+      145.97 dollars  dans 60 mois , déposer 112.38 dollars  dans 84 mois , déposer
+      164.66 dollars  dans 90 mois  et déposer 334.61 dollars  dans 126 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      42  si votre compte de banque vous offre un taux d'intérêt de 3.96% capitalisé
+      semi-annuellement.
+    solution:
+      value: 450.56
+      error: 0.1
+    feedback: |
+      Q_88.svg
+  - name: Question 89
+    class: Numerical
+    statement: Vous avez l'intention de retirer -113.06 dollars  dans 132 mois , déposer
+      163.28 dollars  dans 144 mois , déposer 36.32 dollars  dans 192 mois , déposer
+      192.58 dollars  dans 324 mois  et déposer 233.78 dollars  dans 360 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      156  si votre compte de banque vous offre un taux d'intérêt de 2.447% capitalisé
+      annuellement.
+    solution:
+      value: 374.68
+      error: 0.1
+    feedback: |
+      Q_89.svg
+  - name: Question 90
+    class: Numerical
+    statement: Vous avez l'intention de déposer 84.89 dollars  dans 30 mois , déposer
+      11.59 dollars  dans 66 mois , déposer 174.07 dollars  dans 114 mois  et déposer
+      27.94 dollars  dans 156 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 168  si votre compte de banque vous offre un
+      taux d'intérêt de 5.393% capitalisé semi-annuellement.
+    solution:
+      value: 629.41
+      error: 0.1
+    feedback: |
+      Q_90.svg
+  - name: Question 91
+    class: Numerical
+    statement: Vous avez l'intention de déposer 79.99 dollars  dans 42 mois , déposer
+      79.35 dollars  dans 84 mois , déposer 140.25 dollars  dans 96 mois , déposer
+      142.92 dollars  dans 114 mois  et déposer 62.33 dollars  dans 120 mois dans
+      (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois
+      12  si votre compte de banque vous offre un taux d'intérêt de 3.754% capitalisé
+      semi-annuellement.
+    solution:
+      value: 308.38
+      error: 0.1
+    feedback: |
+      Q_91.svg
+  - name: Question 92
+    class: Numerical
+    statement: Vous avez l'intention de déposer 137.1 dollars  dans 78 mois  et déposer
+      136.8 dollars  dans 168 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 42  si votre compte de banque vous offre un taux
+      d'intérêt de 1.567% capitalisé semi-annuellement.
+    solution:
+      value: 223.41
+      error: 0.1
+    feedback: |
+      Q_92.svg
+  - name: Question 93
+    class: Numerical
+    statement: Vous avez l'intention de déposer 52.96 dollars  dans 69 mois  et déposer
+      52.96 dollars  dans 69 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 69  si votre compte de banque vous offre un taux
+      d'intérêt de 1.624% capitalisé trimestriellement.
+    solution:
+      value: 52.96
+      error: 0.1
+    feedback: |
+      Q_93.svg
+  - name: Question 94
+    class: Numerical
+    statement: Vous avez l'intention de déposer 134.63 dollars  dans 13 mois  et retirer
+      -50.58 dollars  dans 23 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 7  si votre compte de banque vous offre un taux
+      d'intérêt de 9.17% capitalisé mensuellement.
+    solution:
+      value: 66.09
+      error: 0.1
+    feedback: |
+      Q_94.svg
+  - name: Question 95
+    class: Numerical
+    statement: Vous avez l'intention de déposer 97.21 dollars  dans 12 mois , déposer
+      67.89 dollars  dans 84 mois  et retirer -61.55 dollars  dans 102 mois dans (de)
+      votre compte de banque. Quel est la valeur de ces flux monétaires au mois 36  si
+      votre compte de banque vous offre un taux d'intérêt de 3.71% capitalisé semi-annuellement.
+    solution:
+      value: 122.12
+      error: 0.1
+    feedback: |
+      Q_95.svg
+  - name: Question 96
+    class: Numerical
+    statement: Vous avez l'intention de déposer 240.86 dollars  dans 156 mois  et
+      déposer 240.86 dollars  dans 156 mois dans (de) votre compte de banque. Quel
+      est la valeur de ces flux monétaires au mois 300  si votre compte de banque
+      vous offre un taux d'intérêt de 11.923% capitalisé annuellement.
+    solution:
+      value: 930.67
+      error: 0.1
+    feedback: |
+      Q_96.svg
+  - name: Question 97
+    class: Numerical
+    statement: Vous avez l'intention de déposer 306.6 dollars  dans 3 mois  et déposer
+      306.6 dollars  dans 3 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 18  si votre compte de banque vous offre un taux
+      d'intérêt de 14.522% capitalisé trimestriellement.
+    solution:
+      value: 625.64
+      error: 0.1
+    feedback: |
+      Q_97.svg
+  - name: Question 98
+    class: Numerical
+    statement: Vous avez l'intention de déposer 31.81 dollars  dans 45 mois  et déposer
+      56.46 dollars  dans 87 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 39  si votre compte de banque vous offre un taux
+      d'intérêt de 4.108% capitalisé trimestriellement.
+    solution:
+      value: 58.67
+      error: 0.1
+    feedback: |
+      Q_98.svg
+  - name: Question 99
+    class: Numerical
+    statement: Vous avez l'intention de déposer 147.97 dollars  dans 66 mois  et déposer
+      147.97 dollars  dans 66 mois dans (de) votre compte de banque. Quel est la valeur
+      de ces flux monétaires au mois 63  si votre compte de banque vous offre un taux
+      d'intérêt de 10.4% capitalisé trimestriellement.
+    solution:
+      value: 133.53
+      error: 0.1
+    feedback: |
+      Q_99.svg
+  - name: Question 100
+    class: Numerical
+    statement: Vous avez l'intention de déposer 34.95 dollars  dans 150 mois  et retirer
+      -58.59 dollars  dans 156 mois dans (de) votre compte de banque. Quel est la
+      valeur de ces flux monétaires au mois 84  si votre compte de banque vous offre
+      un taux d'intérêt de 8.652% capitalisé semi-annuellement.
+    solution:
+      value: -7.43
+      error: 0.1
+    feedback: |
+      Q_100.svg

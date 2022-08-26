@@ -6,7 +6,7 @@ n.question = 2
 
 base_list = list("pictures base directory" =  "answer_plot",
                  "categories" = list(list(
-                              "name" = "Séance 2",
+                              "name" = "seance2",
                               questions = list())
                  )
                  )
@@ -21,10 +21,10 @@ for(i in 1:n.question){
   base_list$categories[[1]]$questions[[i]]$statement =base::enc2utf8(question$question)
   base_list$categories[[1]]$questions[[i]]$solution = list(value = question$response,
                                                            error = 0.1)
-  base_list$categories[[1]]$questions[[i]]$feedback = paste0("\nanswer_plot/Q_",i,".svg\n")
+  base_list$categories[[1]]$questions[[i]]$feedback = paste0("Q_",i,".svg\n")
   dev.off()
 }
 
 yaml::write_yaml(base_list,file = "bank.yaml")
-Generate_i_question()
+#Generate_i_question()
 
