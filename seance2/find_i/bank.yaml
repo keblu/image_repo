@@ -1,0 +1,1065 @@
+pictures base directory: answer_plot
+categories:
+- name: seance2
+  questions:
+  - name: Question 1
+    class: Numerical
+    statement: Si vous avez investie 9967.38 dollars dans votre compte de banque il
+      y a 23 semi-année et que vous avez 11329.8 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0111718
+      error: 0.1
+    feedback: |
+      Q_1.svg
+  - name: Question 2
+    class: Numerical
+    statement: Si vous avez investie 10053.12 dollars dans votre compte de banque
+      il y a 17 ans et que vous avez 9038.11 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0062412
+      error: 0.1
+    feedback: |
+      Q_2.svg
+  - name: Question 3
+    class: Numerical
+    statement: Si vous avez investie 10086.88 dollars dans votre compte de banque
+      il y a 8 semi-année et que vous avez 9553.82 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0135277
+      error: 0.1
+    feedback: |
+      Q_3.svg
+  - name: Question 4
+    class: Numerical
+    statement: Si vous avez investie 9763.21 dollars dans votre compte de banque il
+      y a 19 trimestre et que vous avez 9409.34 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0077648
+      error: 0.1
+    feedback: |
+      Q_4.svg
+  - name: Question 5
+    class: Numerical
+    statement: Si vous avez investie 10048.23 dollars dans votre compte de banque
+      il y a 9 ans et que vous avez 9430.18 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0070287
+      error: 0.1
+    feedback: |
+      Q_5.svg
+  - name: Question 6
+    class: Numerical
+    statement: Si vous avez investie 10153.53 dollars dans votre compte de banque
+      il y a 28 semi-année et que vous avez 9694.77 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0032998
+      error: 0.1
+    feedback: |
+      Q_6.svg
+  - name: Question 7
+    class: Numerical
+    statement: Si vous avez investie 9974.08 dollars dans votre compte de banque il
+      y a 15 trimestre et que vous avez 8522.33 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0417275
+      error: 0.1
+    feedback: |
+      Q_7.svg
+  - name: Question 8
+    class: Numerical
+    statement: Si vous avez investie 9918.6 dollars dans votre compte de banque il
+      y a 23 trimestre et que vous avez 10390.38 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0080897
+      error: 0.1
+    feedback: |
+      Q_8.svg
+  - name: Question 9
+    class: Numerical
+    statement: Si vous avez investie 9802.68 dollars dans votre compte de banque il
+      y a 3 mois et que vous avez 9213.32 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.2454767
+      error: 0.1
+    feedback: |
+      Q_9.svg
+  - name: Question 10
+    class: Numerical
+    statement: Si vous avez investie 9949.5 dollars dans votre compte de banque il
+      y a 8 trimestre et que vous avez 10504.66 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0272407
+      error: 0.1
+    feedback: |
+      Q_10.svg
+  - name: Question 11
+    class: Numerical
+    statement: Si vous avez investie 9671.96 dollars dans votre compte de banque il
+      y a 5 mois et que vous avez 7804.05 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.5041164
+      error: 0.1
+    feedback: |
+      Q_11.svg
+  - name: Question 12
+    class: Numerical
+    statement: Si vous avez investie 10090.69 dollars dans votre compte de banque
+      il y a 5 ans et que vous avez 9385.32 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0143888
+      error: 0.1
+    feedback: |
+      Q_12.svg
+  - name: Question 13
+    class: Numerical
+    statement: Si vous avez investie 9931.33 dollars dans votre compte de banque il
+      y a 6 mois et que vous avez 8667.72 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.2691138
+      error: 0.1
+    feedback: |
+      Q_13.svg
+  - name: Question 14
+    class: Numerical
+    statement: Si vous avez investie 10035.27 dollars dans votre compte de banque
+      il y a 14 trimestre et que vous avez 10132.1 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0027446
+      error: 0.1
+    feedback: |
+      Q_14.svg
+  - name: Question 15
+    class: Numerical
+    statement: Si vous avez investie 9914.05 dollars dans votre compte de banque il
+      y a 17 ans et que vous avez 10387.77 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0027494
+      error: 0.1
+    feedback: |
+      Q_15.svg
+  - name: Question 16
+    class: Numerical
+    statement: Si vous avez investie 9930.69 dollars dans votre compte de banque il
+      y a 8 mois et que vous avez 9259.29 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.1045458
+      error: 0.1
+    feedback: |
+      Q_16.svg
+  - name: Question 17
+    class: Numerical
+    statement: Si vous avez investie 10185.75 dollars dans votre compte de banque
+      il y a 23 semi-année et que vous avez 10761.5 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.004787
+      error: 0.1
+    feedback: |
+      Q_17.svg
+  - name: Question 18
+    class: Numerical
+    statement: Si vous avez investie 10055.4 dollars dans votre compte de banque il
+      y a 6 ans et que vous avez 8585.52 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0259949
+      error: 0.1
+    feedback: |
+      Q_18.svg
+  - name: Question 19
+    class: Numerical
+    statement: Si vous avez investie 9996 dollars dans votre compte de banque il y
+      a 25 semi-année et que vous avez 8512.16 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0128139
+      error: 0.1
+    feedback: |
+      Q_19.svg
+  - name: Question 20
+    class: Numerical
+    statement: Si vous avez investie 10073.4 dollars dans votre compte de banque il
+      y a 2 ans et que vous avez 10073.17 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -1.141627e-05
+      error: 0.1
+    feedback: |
+      Q_20.svg
+  - name: Question 21
+    class: Numerical
+    statement: Si vous avez investie 9933.32 dollars dans votre compte de banque il
+      y a 16 ans et que vous avez 9101.5 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0054511
+      error: 0.1
+    feedback: |
+      Q_21.svg
+  - name: Question 22
+    class: Numerical
+    statement: Si vous avez investie 9993.66 dollars dans votre compte de banque il
+      y a 28 semi-année et que vous avez 10051.79 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0004143
+      error: 0.1
+    feedback: |
+      Q_22.svg
+  - name: Question 23
+    class: Numerical
+    statement: Si vous avez investie 9923.81 dollars dans votre compte de banque il
+      y a 11 semi-année et que vous avez 10555.5 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0112516
+      error: 0.1
+    feedback: |
+      Q_23.svg
+  - name: Question 24
+    class: Numerical
+    statement: Si vous avez investie 9924.42 dollars dans votre compte de banque il
+      y a 29 trimestre et que vous avez 10047.39 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0016989
+      error: 0.1
+    feedback: |
+      Q_24.svg
+  - name: Question 25
+    class: Numerical
+    statement: Si vous avez investie 10050.94 dollars dans votre compte de banque
+      il y a 8 ans et que vous avez 11266.79 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0143765
+      error: 0.1
+    feedback: |
+      Q_25.svg
+  - name: Question 26
+    class: Numerical
+    statement: Si vous avez investie 9944.51 dollars dans votre compte de banque il
+      y a 19 ans et que vous avez 10841.34 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0045549
+      error: 0.1
+    feedback: |
+      Q_26.svg
+  - name: Question 27
+    class: Numerical
+    statement: Si vous avez investie 9861.98 dollars dans votre compte de banque il
+      y a 16 ans et que vous avez 9557.96 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0019551
+      error: 0.1
+    feedback: |
+      Q_27.svg
+  - name: Question 28
+    class: Numerical
+    statement: Si vous avez investie 9864.91 dollars dans votre compte de banque il
+      y a 14 ans et que vous avez 11202.31 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0091225
+      error: 0.1
+    feedback: |
+      Q_28.svg
+  - name: Question 29
+    class: Numerical
+    statement: Si vous avez investie 9929.66 dollars dans votre compte de banque il
+      y a 3 semi-année et que vous avez 9547.86 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0259694
+      error: 0.1
+    feedback: |
+      Q_29.svg
+  - name: Question 30
+    class: Numerical
+    statement: Si vous avez investie 9997.05 dollars dans votre compte de banque il
+      y a 10 semi-année et que vous avez 9799.69 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0039839
+      error: 0.1
+    feedback: |
+      Q_30.svg
+  - name: Question 31
+    class: Numerical
+    statement: Si vous avez investie 10164.44 dollars dans votre compte de banque
+      il y a 11 semi-année et que vous avez 9809.43 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0064534
+      error: 0.1
+    feedback: |
+      Q_31.svg
+  - name: Question 32
+    class: Numerical
+    statement: Si vous avez investie 10023.99 dollars dans votre compte de banque
+      il y a 8 ans et que vous avez 10609.25 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0071183
+      error: 0.1
+    feedback: |
+      Q_32.svg
+  - name: Question 33
+    class: Numerical
+    statement: Si vous avez investie 9973.28 dollars dans votre compte de banque il
+      y a 8 mois et que vous avez 11397.55 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.2019132
+      error: 0.1
+    feedback: |
+      Q_33.svg
+  - name: Question 34
+    class: Numerical
+    statement: Si vous avez investie 10297.61 dollars dans votre compte de banque
+      il y a 22 trimestre et que vous avez 9288.63 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0187054
+      error: 0.1
+    feedback: |
+      Q_34.svg
+  - name: Question 35
+    class: Numerical
+    statement: Si vous avez investie 9770.36 dollars dans votre compte de banque il
+      y a 9 trimestre et que vous avez 11646.85 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0788482
+      error: 0.1
+    feedback: |
+      Q_35.svg
+  - name: Question 36
+    class: Numerical
+    statement: Si vous avez investie 10045.51 dollars dans votre compte de banque
+      il y a 23 trimestre et que vous avez 9357.6 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0123179
+      error: 0.1
+    feedback: |
+      Q_36.svg
+  - name: Question 37
+    class: Numerical
+    statement: Si vous avez investie 9858.71 dollars dans votre compte de banque il
+      y a 13 mois et que vous avez 9992.11 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.012413
+      error: 0.1
+    feedback: |
+      Q_37.svg
+  - name: Question 38
+    class: Numerical
+    statement: Si vous avez investie 9795.17 dollars dans votre compte de banque il
+      y a 18 mois et que vous avez 9687.98 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.0073334
+      error: 0.1
+    feedback: |
+      Q_38.svg
+  - name: Question 39
+    class: Numerical
+    statement: Si vous avez investie 9918.08 dollars dans votre compte de banque il
+      y a 14 mois et que vous avez 8592.96 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.1223006
+      error: 0.1
+    feedback: |
+      Q_39.svg
+  - name: Question 40
+    class: Numerical
+    statement: Si vous avez investie 10114.02 dollars dans votre compte de banque
+      il y a 27 trimestre et que vous avez 8804.45 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0204903
+      error: 0.1
+    feedback: |
+      Q_40.svg
+  - name: Question 41
+    class: Numerical
+    statement: Si vous avez investie 10189.92 dollars dans votre compte de banque
+      il y a 26 ans et que vous avez 8928.98 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0050678
+      error: 0.1
+    feedback: |
+      Q_41.svg
+  - name: Question 42
+    class: Numerical
+    statement: Si vous avez investie 10153.07 dollars dans votre compte de banque
+      il y a 18 trimestre et que vous avez 10955.94 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0169482
+      error: 0.1
+    feedback: |
+      Q_42.svg
+  - name: Question 43
+    class: Numerical
+    statement: Si vous avez investie 10134.55 dollars dans votre compte de banque
+      il y a 26 mois et que vous avez 10539.99 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé mensuellement de votre
+      investissement.
+    solution:
+      value: 0.0181181
+      error: 0.1
+    feedback: |
+      Q_43.svg
+  - name: Question 44
+    class: Numerical
+    statement: Si vous avez investie 9942.57 dollars dans votre compte de banque il
+      y a 28 ans et que vous avez 10193.36 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0008901
+      error: 0.1
+    feedback: |
+      Q_44.svg
+  - name: Question 45
+    class: Numerical
+    statement: Si vous avez investie 9952.54 dollars dans votre compte de banque il
+      y a 19 semi-année et que vous avez 9690.35 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0028083
+      error: 0.1
+    feedback: |
+      Q_45.svg
+  - name: Question 46
+    class: Numerical
+    statement: Si vous avez investie 9930.45 dollars dans votre compte de banque il
+      y a 6 ans et que vous avez 9602.85 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0055754
+      error: 0.1
+    feedback: |
+      Q_46.svg
+  - name: Question 47
+    class: Numerical
+    statement: Si vous avez investie 9967.85 dollars dans votre compte de banque il
+      y a 26 ans et que vous avez 10924.9 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0035324
+      error: 0.1
+    feedback: |
+      Q_47.svg
+  - name: Question 48
+    class: Numerical
+    statement: Si vous avez investie 9817.27 dollars dans votre compte de banque il
+      y a 5 semi-année et que vous avez 9687.5 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0053156
+      error: 0.1
+    feedback: |
+      Q_48.svg
+  - name: Question 49
+    class: Numerical
+    statement: Si vous avez investie 9996.96 dollars dans votre compte de banque il
+      y a 26 semi-année et que vous avez 10271.05 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0020817
+      error: 0.1
+    feedback: |
+      Q_49.svg
+  - name: Question 50
+    class: Numerical
+    statement: Si vous avez investie 9984.31 dollars dans votre compte de banque il
+      y a 14 semi-année et que vous avez 10729.22 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0103059
+      error: 0.1
+    feedback: |
+      Q_50.svg
+  - name: Question 51
+    class: Numerical
+    statement: Si vous avez investie 9916.01 dollars dans votre compte de banque il
+      y a 27 ans et que vous avez 12172.09 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0076213
+      error: 0.1
+    feedback: |
+      Q_51.svg
+  - name: Question 52
+    class: Numerical
+    statement: Si vous avez investie 10188.07 dollars dans votre compte de banque
+      il y a 5 trimestre et que vous avez 7962.29 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.1924185
+      error: 0.1
+    feedback: |
+      Q_52.svg
+  - name: Question 53
+    class: Numerical
+    statement: Si vous avez investie 9880.9 dollars dans votre compte de banque il
+      y a 12 ans et que vous avez 10284.52 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0033419
+      error: 0.1
+    feedback: |
+      Q_53.svg
+  - name: Question 54
+    class: Numerical
+    statement: Si vous avez investie 10043.29 dollars dans votre compte de banque
+      il y a 13 mois et que vous avez 9139.6 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: -0.0867203
+      error: 0.1
+    feedback: |
+      Q_54.svg
+  - name: Question 55
+    class: Numerical
+    statement: Si vous avez investie 9922.16 dollars dans votre compte de banque il
+      y a 12 mois et que vous avez 10811.81 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.0861764
+      error: 0.1
+    feedback: |
+      Q_55.svg
+  - name: Question 56
+    class: Numerical
+    statement: Si vous avez investie 10058.64 dollars dans votre compte de banque
+      il y a 23 trimestre et que vous avez 10615.84 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0093876
+      error: 0.1
+    feedback: |
+      Q_56.svg
+  - name: Question 57
+    class: Numerical
+    statement: Si vous avez investie 10003.25 dollars dans votre compte de banque
+      il y a 8 semi-année et que vous avez 9030.62 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0254095
+      error: 0.1
+    feedback: |
+      Q_57.svg
+  - name: Question 58
+    class: Numerical
+    statement: Si vous avez investie 9894.17 dollars dans votre compte de banque il
+      y a 4 mois et que vous avez 11575.34 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.4801511
+      error: 0.1
+    feedback: |
+      Q_58.svg
+  - name: Question 59
+    class: Numerical
+    statement: Si vous avez investie 10013.1 dollars dans votre compte de banque il
+      y a 19 trimestre et que vous avez 10580.89 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0116285
+      error: 0.1
+    feedback: |
+      Q_59.svg
+  - name: Question 60
+    class: Numerical
+    statement: Si vous avez investie 9962.22 dollars dans votre compte de banque il
+      y a 27 trimestre et que vous avez 10512.56 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.007974
+      error: 0.1
+    feedback: |
+      Q_60.svg
+  - name: Question 61
+    class: Numerical
+    statement: Si vous avez investie 10157.6 dollars dans votre compte de banque il
+      y a 20 trimestre et que vous avez 7862.18 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.050905
+      error: 0.1
+    feedback: |
+      Q_61.svg
+  - name: Question 62
+    class: Numerical
+    statement: Si vous avez investie 9960.39 dollars dans votre compte de banque il
+      y a 30 ans et que vous avez 10570.65 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0019841
+      error: 0.1
+    feedback: |
+      Q_62.svg
+  - name: Question 63
+    class: Numerical
+    statement: Si vous avez investie 9915.78 dollars dans votre compte de banque il
+      y a 27 ans et que vous avez 8582.63 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0053334
+      error: 0.1
+    feedback: |
+      Q_63.svg
+  - name: Question 64
+    class: Numerical
+    statement: Si vous avez investie 10094.32 dollars dans votre compte de banque
+      il y a 22 mois et que vous avez 12302.03 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé mensuellement de votre
+      investissement.
+    solution:
+      value: 0.1083727
+      error: 0.1
+    feedback: |
+      Q_64.svg
+  - name: Question 65
+    class: Numerical
+    statement: Si vous avez investie 10049.03 dollars dans votre compte de banque
+      il y a 2 trimestre et que vous avez 8279.64 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.369189
+      error: 0.1
+    feedback: |
+      Q_65.svg
+  - name: Question 66
+    class: Numerical
+    statement: Si vous avez investie 10095.3 dollars dans votre compte de banque il
+      y a 29 semi-année et que vous avez 9790.54 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0021129
+      error: 0.1
+    feedback: |
+      Q_66.svg
+  - name: Question 67
+    class: Numerical
+    statement: Si vous avez investie 9901.68 dollars dans votre compte de banque il
+      y a 13 ans et que vous avez 11414.48 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0109968
+      error: 0.1
+    feedback: |
+      Q_67.svg
+  - name: Question 68
+    class: Numerical
+    statement: Si vous avez investie 10041.57 dollars dans votre compte de banque
+      il y a 18 mois et que vous avez 10350.47 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé mensuellement de votre
+      investissement.
+    solution:
+      value: 0.020216
+      error: 0.1
+    feedback: |
+      Q_68.svg
+  - name: Question 69
+    class: Numerical
+    statement: Si vous avez investie 10073.49 dollars dans votre compte de banque
+      il y a 13 semi-année et que vous avez 11104.26 dollars dans votre compte de
+      banque aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0150442
+      error: 0.1
+    feedback: |
+      Q_69.svg
+  - name: Question 70
+    class: Numerical
+    statement: Si vous avez investie 10166.69 dollars dans votre compte de banque
+      il y a 30 semi-année et que vous avez 8870.14 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0090744
+      error: 0.1
+    feedback: |
+      Q_70.svg
+  - name: Question 71
+    class: Numerical
+    statement: Si vous avez investie 10013.86 dollars dans votre compte de banque
+      il y a 7 trimestre et que vous avez 9199.35 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0481859
+      error: 0.1
+    feedback: |
+      Q_71.svg
+  - name: Question 72
+    class: Numerical
+    statement: Si vous avez investie 10091.73 dollars dans votre compte de banque
+      il y a 4 ans et que vous avez 11144.95 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.0251281
+      error: 0.1
+    feedback: |
+      Q_72.svg
+  - name: Question 73
+    class: Numerical
+    statement: Si vous avez investie 9861.55 dollars dans votre compte de banque il
+      y a 7 semi-année et que vous avez 10312.86 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0128262
+      error: 0.1
+    feedback: |
+      Q_73.svg
+  - name: Question 74
+    class: Numerical
+    statement: Si vous avez investie 9994.99 dollars dans votre compte de banque il
+      y a 11 mois et que vous avez 11529.83 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.1568566
+      error: 0.1
+    feedback: |
+      Q_74.svg
+  - name: Question 75
+    class: Numerical
+    statement: Si vous avez investie 9790.73 dollars dans votre compte de banque il
+      y a 11 trimestre et que vous avez 9630.25 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0060052
+      error: 0.1
+    feedback: |
+      Q_75.svg
+  - name: Question 76
+    class: Numerical
+    statement: Si vous avez investie 10063.21 dollars dans votre compte de banque
+      il y a 16 semi-année et que vous avez 8729.64 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0176915
+      error: 0.1
+    feedback: |
+      Q_76.svg
+  - name: Question 77
+    class: Numerical
+    statement: Si vous avez investie 10057.53 dollars dans votre compte de banque
+      il y a 24 trimestre et que vous avez 11645.57 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0245088
+      error: 0.1
+    feedback: |
+      Q_77.svg
+  - name: Question 78
+    class: Numerical
+    statement: Si vous avez investie 10097.48 dollars dans votre compte de banque
+      il y a 2 trimestre et que vous avez 10666.01 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.1110663
+      error: 0.1
+    feedback: |
+      Q_78.svg
+  - name: Question 79
+    class: Numerical
+    statement: Si vous avez investie 9986.98 dollars dans votre compte de banque il
+      y a 22 semi-année et que vous avez 10534.44 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0048575
+      error: 0.1
+    feedback: |
+      Q_79.svg
+  - name: Question 80
+    class: Numerical
+    statement: Si vous avez investie 10014.91 dollars dans votre compte de banque
+      il y a 4 trimestre et que vous avez 8552.56 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.1547705
+      error: 0.1
+    feedback: |
+      Q_80.svg
+  - name: Question 81
+    class: Numerical
+    statement: Si vous avez investie 10133.89 dollars dans votre compte de banque
+      il y a 29 mois et que vous avez 7678.86 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé mensuellement de votre
+      investissement.
+    solution:
+      value: -0.1142448
+      error: 0.1
+    feedback: |
+      Q_81.svg
+  - name: Question 82
+    class: Numerical
+    statement: Si vous avez investie 9861.97 dollars dans votre compte de banque il
+      y a 14 ans et que vous avez 9866.3 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 3.1355062e-05
+      error: 0.1
+    feedback: |
+      Q_82.svg
+  - name: Question 83
+    class: Numerical
+    statement: Si vous avez investie 9925.76 dollars dans votre compte de banque il
+      y a 25 mois et que vous avez 11584.81 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.0744193
+      error: 0.1
+    feedback: |
+      Q_83.svg
+  - name: Question 84
+    class: Numerical
+    statement: Si vous avez investie 9960.38 dollars dans votre compte de banque il
+      y a 22 mois et que vous avez 10731.95 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé mensuellement de votre investissement.
+    solution:
+      value: 0.0407655
+      error: 0.1
+    feedback: |
+      Q_84.svg
+  - name: Question 85
+    class: Numerical
+    statement: Si vous avez investie 9868.37 dollars dans votre compte de banque il
+      y a 29 semi-année et que vous avez 10293.85 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0029133
+      error: 0.1
+    feedback: |
+      Q_85.svg
+  - name: Question 86
+    class: Numerical
+    statement: Si vous avez investie 9997.66 dollars dans votre compte de banque il
+      y a 18 semi-année et que vous avez 9225.07 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.0089163
+      error: 0.1
+    feedback: |
+      Q_86.svg
+  - name: Question 87
+    class: Numerical
+    statement: Si vous avez investie 9945.07 dollars dans votre compte de banque il
+      y a 27 trimestre et que vous avez 11069.85 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0159054
+      error: 0.1
+    feedback: |
+      Q_87.svg
+  - name: Question 88
+    class: Numerical
+    statement: Si vous avez investie 9873.39 dollars dans votre compte de banque il
+      y a 17 ans et que vous avez 9950.04 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: 0.000455
+      error: 0.1
+    feedback: |
+      Q_88.svg
+  - name: Question 89
+    class: Numerical
+    statement: Si vous avez investie 10133.78 dollars dans votre compte de banque
+      il y a 30 trimestre et que vous avez 10925.82 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.0100465
+      error: 0.1
+    feedback: |
+      Q_89.svg
+  - name: Question 90
+    class: Numerical
+    statement: Si vous avez investie 10120.07 dollars dans votre compte de banque
+      il y a 15 mois et que vous avez 11574.3 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé mensuellement de votre
+      investissement.
+    solution:
+      value: 0.1078954
+      error: 0.1
+    feedback: |
+      Q_90.svg
+  - name: Question 91
+    class: Numerical
+    statement: Si vous avez investie 9979.35 dollars dans votre compte de banque il
+      y a 7 semi-année et que vous avez 10402.47 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0118996
+      error: 0.1
+    feedback: |
+      Q_91.svg
+  - name: Question 92
+    class: Numerical
+    statement: Si vous avez investie 10036.8 dollars dans votre compte de banque il
+      y a 13 semi-année et que vous avez 10370.97 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0050452
+      error: 0.1
+    feedback: |
+      Q_92.svg
+  - name: Question 93
+    class: Numerical
+    statement: Si vous avez investie 9952.96 dollars dans votre compte de banque il
+      y a 6 trimestre et que vous avez 9713.03 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0162348
+      error: 0.1
+    feedback: |
+      Q_93.svg
+  - name: Question 94
+    class: Numerical
+    statement: Si vous avez investie 10009.57 dollars dans votre compte de banque
+      il y a 13 semi-année et que vous avez 10303.04 dollars dans votre compte de
+      banque aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: 0.0044507
+      error: 0.1
+    feedback: |
+      Q_94.svg
+  - name: Question 95
+    class: Numerical
+    statement: Si vous avez investie 10019.13 dollars dans votre compte de banque
+      il y a 3 ans et que vous avez 8527.51 dollars dans votre compte de banque aujourd'hui,
+      quel le taux de rendement nominal capitalisé annuellement de votre investissement.
+    solution:
+      value: -0.0523149
+      error: 0.1
+    feedback: |
+      Q_95.svg
+  - name: Question 96
+    class: Numerical
+    statement: Si vous avez investie 10186.28 dollars dans votre compte de banque
+      il y a 25 mois et que vous avez 8720.27 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé mensuellement de votre
+      investissement.
+    solution:
+      value: -0.0743566
+      error: 0.1
+    feedback: |
+      Q_96.svg
+  - name: Question 97
+    class: Numerical
+    statement: Si vous avez investie 10017.31 dollars dans votre compte de banque
+      il y a 1 trimestre et que vous avez 9066.32 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.3797387
+      error: 0.1
+    feedback: |
+      Q_97.svg
+  - name: Question 98
+    class: Numerical
+    statement: Si vous avez investie 9959.91 dollars dans votre compte de banque il
+      y a 29 semi-année et que vous avez 9937.4 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé semi-annuellement
+      de votre investissement.
+    solution:
+      value: -0.000156
+      error: 0.1
+    feedback: |
+      Q_98.svg
+  - name: Question 99
+    class: Numerical
+    statement: Si vous avez investie 9879.33 dollars dans votre compte de banque il
+      y a 3 trimestre et que vous avez 12432.8 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: 0.3185751
+      error: 0.1
+    feedback: |
+      Q_99.svg
+  - name: Question 100
+    class: Numerical
+    statement: Si vous avez investie 9934.95 dollars dans votre compte de banque il
+      y a 26 trimestre et que vous avez 8414.12 dollars dans votre compte de banque
+      aujourd'hui, quel le taux de rendement nominal capitalisé trimestriellement
+      de votre investissement.
+    solution:
+      value: -0.0254797
+      error: 0.1
+    feedback: |
+      Q_100.svg

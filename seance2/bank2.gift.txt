@@ -1,7 +1,0 @@
-$CATEGORY: $course$/Séance 2
-
-::Question 1::[html]Vous avez l'intention de déposer 67.38$ dans 6 mois  et déposer 67.38 dollars  dans 6 mois dans (de) votre compte de banque. Quel est la valeur de ces flux monétaires au mois 12  si votre compte de banque vous offre un taux d'intérêt de 13.577% capitalisé semi-annuellement.{
-#	=%100%76.84:0.1#
-	####<br><p><img src\="https\://github.com/keblu/image_repo/tree/main/s" alt\="" role\="presentation" class\="atto_image_button_text-bottom"><br></p>%C3%A9ance%202/answer_plot/answer_plot/Q_1.svg
-}
-
